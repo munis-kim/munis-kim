@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=munis)](https://solved.ac/munis)
-
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=munis)](https://solved.ac/munis)
 <!--
 **munis-kim/munis-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
